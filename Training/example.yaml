@@ -1,0 +1,29 @@
+hostname: myhost
+id: 12q2325325435tw4
+key: mymainkey
+info:
+  data1: someinfo.data1
+  data2: other_info.data2
+  nested1:
+    error: 23
+    high: einfo.nested_first.high
+    low: 322
+    normal: 0
+    warning: 43
+  nested2:
+    error: 23
+    high: 42
+    low: 322
+    normal: 0
+    warning: 43
+instances:
+- four: some data
+  id: some_instance_id3432432
+  one: value1
+  three: 452380988
+  two: 2
+- four: some data
+  id: some_instance_id045480334
+  one: value1
+  three: 452380988
+  two: 2

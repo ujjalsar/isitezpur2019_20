@@ -1,0 +1,4 @@
+info:
+  data1: einfo.data1
+  nested1:
+    high: einfo.nested_first.high

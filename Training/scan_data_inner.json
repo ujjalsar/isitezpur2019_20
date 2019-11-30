@@ -1,0 +1,8 @@
+{
+  "error": 23,
+  "warning": 43,
+  "high": 42,
+  "low": 322,
+  "normal": 0,
+  "some" : "other"
+}
